@@ -1,0 +1,1 @@
+This program writes prime numbers from 0 to 10000, although it's written in assembly it's slow, it uses basic algorithm because making advanced one would be too boring, that makes this even slower than simple Python script with same purpose.
